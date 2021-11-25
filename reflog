@@ -1,0 +1,16 @@
+f44f5ee HEAD@{0}: checkout: moving from f44f5eeb0c3a66871d46dfd14f43b1dba88856b5 to DetachedHeadBranch
+f44f5ee HEAD@{1}: commit: some file
+011cfb6 HEAD@{2}: checkout: moving from texts to 011cfb6
+011cfb6 HEAD@{3}: commit: rozprawa.txt
+6cfd76b HEAD@{4}: commit: lorem ipsum
+6180d82 HEAD@{5}: checkout: moving from main to texts
+6180d82 HEAD@{6}: pull: Fast-forward
+5235706 HEAD@{7}: checkout: moving from personal_details to main
+4a39165 HEAD@{8}: commit: index number
+6d28734 HEAD@{9}: commit: first name
+5235706 HEAD@{10}: checkout: moving from main to personal_details
+5235706 HEAD@{11}: Branch: renamed refs/heads/personal_details to refs/heads/main
+5235706 HEAD@{13}: checkout: moving from main to personal_details
+5235706 HEAD@{14}: commit: Add tak.html
+210cb27 HEAD@{15}: Branch: renamed refs/heads/master to refs/heads/main
+210cb27 HEAD@{17}: commit (initial): first commit
